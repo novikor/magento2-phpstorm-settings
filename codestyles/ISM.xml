@@ -20,19 +20,26 @@
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="ALIAS_CASE" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
     <option name="QUOTED_IDENTIFIER_CASE" value="1" />
     <option name="QUOTE_IDENTIFIER" value="0" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="INSERT_INTO_NL" value="1" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="SUBQUERY_L_PAR_NL_OUTSIDE" value="true" />
     <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_INDENT_INSIDE" value="true" />
-    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
-    <option name="INSERT_INTO_NL" value="1" />
-    <option name="SELECT_USE_AS_WORD" value="1" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
