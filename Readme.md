@@ -1,4 +1,4 @@
-# DNA Magento 2 PhpStorm code styles repository
+# Magento 2 PhpStorm code styles repository
 
 ## Purpose
 
