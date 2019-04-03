@@ -2,8 +2,6 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
-    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
@@ -15,7 +13,6 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
-    <option name="SPACE_AFTER_COLON_IN_RETURN_TYPE" value="false" />
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="IF_RPAREN_ON_NEXT_LINE" value="true" />
   </PHPCodeStyleSettings>
