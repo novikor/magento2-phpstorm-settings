@@ -51,6 +51,8 @@
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </H2CodeStyleSettings>
   <HSQLCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
@@ -67,6 +69,8 @@
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </HSQLCodeStyleSettings>
   <MSSQLCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
@@ -101,6 +105,8 @@
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
@@ -121,7 +127,6 @@
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
-    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
@@ -169,6 +174,8 @@
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
     <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
